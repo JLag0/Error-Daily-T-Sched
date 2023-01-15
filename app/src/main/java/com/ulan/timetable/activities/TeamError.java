@@ -31,8 +31,8 @@ public class TeamError extends AppCompatActivity {
                 new TeamMember("Dela Cerna, Jenzy D.",new String[] {"System Analyst"}),
                 new TeamMember("Lago, Jhon Ulysis M.",new String[] {"Programmer"}),
                 new TeamMember("Bautista Kazuyuki",new String[] {"Graphic Designer"}),
-                new TeamMember("Brosas, Alexandra Nichole M.",new String[] {"Document Controller"}),
-                new TeamMember("Barilla, Lawrence Justine C.",new String[]{"Document Controller"})
+                new TeamMember("Brosas, Alexandra Nichole M. \n Barilla, Lawrence Justine C.",new String[] {"Document Controller"})
+
         };
 
         TextView teamNameView = findViewById(R.id.team_name);
