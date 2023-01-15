@@ -82,6 +82,9 @@
             android:name=".activities.NoteInfoActivity"
             android:label="@string/notes_activity_title"
             android:parentActivityName=".activities.NotesActivity" />
+        <activity android:name=".activities.TeamError"
+            android:label="TEAM ERROR"
+            android:parentActivityName=".activities.TeamError"/>
         <activity
             android:name=".activities.TeachersActivity"
             android:label="@string/teacher"

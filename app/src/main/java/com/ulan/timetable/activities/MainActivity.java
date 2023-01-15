@@ -335,6 +335,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Intent teacher = new Intent(MainActivity.this, SummaryActivity.class);
             startActivity(teacher);
         }
+        else if (itemId == R.id.Team) {
+            Intent TeamError = new Intent(MainActivity.this, TeamError.class);
+            startActivity(TeamError);
+        }
+
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;

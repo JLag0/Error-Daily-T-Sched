@@ -17,6 +17,7 @@
             android:id="@+id/button"
             android:icon="@drawable/ic_open_in_browser_white_24dp"
             android:title="Links" />
+
     </group>
 
     <group
@@ -26,5 +27,9 @@
             android:id="@+id/settings"
             android:icon="@drawable/ic_settings_black_24dp"
             android:title="@string/settings" />
+        <item
+            android:id="@+id/Team"
+            android:gravity="center"
+            android:title="TEAM ERROR" />
     </group>
 </menu>
