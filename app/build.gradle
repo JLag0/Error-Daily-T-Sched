@@ -6,10 +6,10 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.error.timetable_notifier"
-        minSdkVersion 21
-        targetSdkVersion 29
+        minSdkVersion 21    //android 5 - Lollipop
+        targetSdkVersion 29 //android 10 - Quince Tart
         versionCode 01
-        versionName "0.1"
+        versionName "beta v1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
