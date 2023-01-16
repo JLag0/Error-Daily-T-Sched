@@ -9,8 +9,8 @@ This project is an android application built using Java in Android Studio that p
 - Dark mode support
 - Link management system:
   - Add and edit links
-  - Organize links into categories
-  - Quick access to frequently used links
+  - Organize links into categories(Coming Soon)
+  - Quick access to frequently used links(Coming Soon)
 
 ## Installation
 To install the app, download the APK file from the release section and install it on your android device. 
