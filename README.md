@@ -33,4 +33,4 @@ If you want to contribute to this project, feel free to fork the repository and 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## Contact
-For any questions or concerns, please reach out to the developer at [email address].
+For any questions or concerns, please reach out to the developer at jhonulysismlago@gmail.com.
