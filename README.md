@@ -11,7 +11,7 @@ This project is an android application built using Java in Android Studio that p
   - Add and edit links
 
     
-<img src="https://github.com/user-attachments/assets/1d493293-dc5a-4c6b-b273-4ffe07ca8ed4" width="250" height="250" />
+<img src="https://github.com/user-attachments/assets/1d493293-dc5a-4c6b-b273-4ffe07ca8ed4" width="250" height="500" />
 
 ![2](https://github.com/user-attachments/assets/1d493293-dc5a-4c6b-b273-4ffe07ca8ed4)
  ![4](https://github.com/user-attachments/assets/36a3c865-3293-4847-b094-e663b861477c)
