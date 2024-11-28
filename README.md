@@ -11,14 +11,12 @@ This project is an android application built using Java in Android Studio that p
   - Add and edit links
 
     
+<img src="https://github.com/user-attachments/assets/e769fdeb-28c0-4b6a-9392-0cad03e17dbe" width="250" height="500" />
 <img src="https://github.com/user-attachments/assets/1d493293-dc5a-4c6b-b273-4ffe07ca8ed4" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/36a3c865-3293-4847-b094-e663b861477c" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/32639e34-b63c-49d9-9014-170cfe8f0d87" width="250" height="500" />
+<img src="https://github.com/user-attachments/assets/1913da14-160b-443d-968d-5c8ccae27cf0" width="250" height="500" />
 
-![2](https://github.com/user-attachments/assets/1d493293-dc5a-4c6b-b273-4ffe07ca8ed4)
- ![4](https://github.com/user-attachments/assets/36a3c865-3293-4847-b094-e663b861477c)
-![3](https://github.com/user-attachments/assets/32639e34-b63c-49d9-9014-170cfe8f0d87)
-![5](https://github.com/user-attachments/assets/1913da14-160b-443d-968d-5c8ccae27cf0)
-
-  
 
 ## Installation
 To install the app, download the APK file from the release section and install it on your android device. 
